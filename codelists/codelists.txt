@@ -2,3 +2,8 @@ opensafely/ace-inhibitor-medications/2020-05-19
 opensafely/angiotensin-ii-receptor-blockers-arbs/2020-05-19
 opensafely/chronic-kidney-disease/2020-04-14
 opensafely/heart-failure/2020-05-05
+opensafely/ethnicity/2020-04-27
+opensafely/dialysis/2020-07-16
+opensafely/diabetes/2020-04-15
+opensafely/beta-blocker-medications/2020-05-19
+opensafely/thiazide-type-diuretic-medication/2020-05-19
